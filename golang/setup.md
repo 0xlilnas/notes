@@ -36,3 +36,11 @@ go mod tidy
 ```
 
 this command will download the package by finding it based on your import.
+
+7.You can check downloaded package in:
+
+```go
+ls -l mod/github.com/{package-name}
+```
+
+From here vscode will use intellisense from the package downloaded in this folder
