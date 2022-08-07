@@ -1,6 +1,4 @@
-# Setup
-
-## How to clean up your go workspace
+# How to clean up your go workspace
 
 1.Open your terminal and type the command below:
 
